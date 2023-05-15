@@ -17,7 +17,7 @@ public:
 int main()
 {
 	// bukunya.setJudul ("Matematika"
-
+	//cout << bukunya.getJudul();
 
 
 
