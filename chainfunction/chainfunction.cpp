@@ -14,3 +14,12 @@ public:
 		return this->judul;
 	}
 } bukunya;
+int main()
+{
+	// bukunya.setJudul ("Matematika"
+
+
+
+
+
+}
